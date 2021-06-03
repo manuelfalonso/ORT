@@ -1,8 +1,8 @@
 # Java Exercies - ORT
 
-(EN) Developed material at the ORT tertiary institute in Systems Analyst career. Yatay 240, Buenos Aires, Argentina.
+(EN) Developed material at the ORT tertiary institute in Systems Analyst career. Yatay 240, Buenos Aires, Argentina. Course Unit: Programming tools workshop
 
-(ES) Material desarrollado en el instituo terciario ORT en la carrera Analista de Sistemas. Yatay 240, Buenos Aires, Argentina.
+(ES) Material desarrollado en el instituo terciario ORT en la carrera Analista de Sistemas. Yatay 240, Buenos Aires, Argentina. Materia: Taller de herramientas de programación
 
 ## Technologies
 
